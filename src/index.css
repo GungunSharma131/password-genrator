@@ -11,3 +11,101 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.input-box1{
+  height: 250px;
+  background-color: black;
+  margin: auto;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.input-box{
+  height: 250px;
+  background-color: black;
+  margin: auto;
+  border-radius: 20px;
+  margin-top: 20px;
+  width: 90%;
+}
+.main-box{
+  height: 50px;
+  width: 80%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-right: none;
+  border-radius: 10px;
+  
+}
+.main-box1{
+  height: 50px;
+  width: 15%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  margin-top: 0%;
+  background-color: #0000FF;
+  color: white;
+  font-weight: 500;
+  border: none;
+  border-radius: 10px;
+
+}
+.main-head{
+  margin-top: 10px;
+ text-align: center;
+ color: #fff;
+ font-size: 25px;
+}
+.main-range{
+  margin-left: 20%;
+  margin-top: 20px;
+}
+.main-box2{
+  width: 60%;
+  margin: auto;
+}
+.main-range1{
+  color: orange;
+  font-size: 16px;
+  margin-left: 20%;
+}
+.box{
+  margin: auto;
+  margin-left:50%;
+  position: relative;
+    top: 18px;
+    left: 10px
+}
+.box1{
+  margin: auto;
+  margin-left:50%;
+  position: relative;
+    top: 12px;
+    left: 30px
+}
+.main-box5{
+  width: 10%;
+  margin: auto;
+  position: relative;
+  bottom: 40px;
+}
+.box-head{
+  color: orange;
+  font-size: 16px;
+  position: relative;
+  bottom: 5px;
+
+}
+.main-box6{
+  width: 10%;
+  margin: auto;
+  position: relative;
+  left: 20%;
+  bottom: 30%;
+}
+.box-head1{
+  color: orange;
+  font-size: 16px;
+  position: relative;
+  bottom: 12px;
+
+
+}
+
+
